@@ -16,7 +16,7 @@ function Banner() {
             <input className="dark:bg-slate-900 dark:text-white" type="email" placeholder="Email" required/>
             </label>
            </div>
-           <button className="btn mt-6 btn-secondary">Secondary</button>
+           <button className="btn mt-6 btn-secondary">Get Started</button>
             </div>
             <div className=" order-1 w-full md:w-1/2">
             <div className="mt-12  md:mt-32 md:ml-52">
